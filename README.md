@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nadia Natasa</h1>
 <h3 align="center">A passionate QA Engineer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Katalon, Selenium, API Automation with Mocha & Chai**
+- 🌱 I’m currently learning **Katalon, Selenium, Appium, API Automation with Mocha & Chai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
